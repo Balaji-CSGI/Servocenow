@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Custom Table" max_length="40" name="x_218274_mycustom_custom_table" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Testconfig" max_length="40" name="x_218274_hello_wor_u_string_1" type="string"/>
+    </element>
+</database>

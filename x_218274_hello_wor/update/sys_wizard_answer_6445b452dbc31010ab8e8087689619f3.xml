@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>NeedIt</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>NeedIt</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">27769bb4db221010ab8e808768961988</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-06 13:57:00</sys_created_on>
+        <sys_id>6445b452dbc31010ab8e8087689619f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt</sys_name>
+        <sys_package display_value="Hello World" source="x_218274_hello_wor">22500bcedb4f1010ab8e80876896194e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">22500bcedb4f1010ab8e80876896194e</sys_scope>
+        <sys_update_name>sys_wizard_answer_6445b452dbc31010ab8e8087689619f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-06 13:57:00</sys_updated_on>
+        <table/>
+        <target_url>x_218274_hello_wor_needit.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
