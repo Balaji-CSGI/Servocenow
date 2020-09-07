@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="test_lable" label="Test Lable" language="en" table="x_218274_hello_wor_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>test_lable</element>
+            <help/>
+            <hint/>
+            <label>Test Lable</label>
+            <language>en</language>
+            <name>x_218274_hello_wor_needit</name>
+            <plural>Test Lables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-07 08:24:01</sys_created_on>
+            <sys_id>74a2b06adb0f1010ab8e808768961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Test Lable</sys_name>
+            <sys_package display_value="Hello World" source="x_218274_hello_wor">22500bcedb4f1010ab8e80876896194e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hello World">22500bcedb4f1010ab8e80876896194e</sys_scope>
+            <sys_update_name>sys_documentation_x_218274_hello_wor_needit_test_lable_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-07 08:24:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Log" section_id="489001a2db4f1010ab8e8087689619e0" sys_domain="global" table="x_218274_hello_wor_needit" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-07 09:24:52</sys_created_on>
+            <sys_id>189041a2db4f1010ab8e808768961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Log" display_value="Log" name="x_218274_hello_wor_needit" sys_domain="global" view="Default view">489001a2db4f1010ab8e8087689619e0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-07 09:24:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes_list</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-07 09:24:52</sys_created_on>
+            <sys_id>9c9041a2db4f1010ab8e808768961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Log" display_value="Log" name="x_218274_hello_wor_needit" sys_domain="global" view="Default view">489001a2db4f1010ab8e8087689619e0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-07 09:24:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-07 09:24:52</sys_created_on>
+            <sys_id>109041a2db4f1010ab8e808768961901</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Log" display_value="Log" name="x_218274_hello_wor_needit" sys_domain="global" view="Default view">489001a2db4f1010ab8e8087689619e0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-07 09:24:52</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Log</caption>
+            <header>false</header>
+            <name>x_218274_hello_wor_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-07 09:24:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>489001a2db4f1010ab8e8087689619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Log</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Hello World" source="x_218274_hello_wor">22500bcedb4f1010ab8e80876896194e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hello World">22500bcedb4f1010ab8e80876896194e</sys_scope>
+            <sys_update_name>sys_ui_section_489001a2db4f1010ab8e8087689619e0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-07 09:24:52</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

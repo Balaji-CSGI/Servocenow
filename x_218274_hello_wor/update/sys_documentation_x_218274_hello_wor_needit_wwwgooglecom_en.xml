@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="wwwgooglecom" label="Navigate To" language="en" table="x_218274_hello_wor_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>wwwgooglecom</element>
+            <help/>
+            <hint/>
+            <label>Navigate To</label>
+            <language>en</language>
+            <name>x_218274_hello_wor_needit</name>
+            <plural>Navigate Tos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-07 08:37:18</sys_created_on>
+            <sys_id>2fa570eadb0f1010ab8e80876896190b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Navigate To</sys_name>
+            <sys_package display_value="Hello World" source="x_218274_hello_wor">22500bcedb4f1010ab8e80876896194e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hello World">22500bcedb4f1010ab8e80876896194e</sys_scope>
+            <sys_update_name>sys_documentation_x_218274_hello_wor_needit_wwwgooglecom_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-07 08:37:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
